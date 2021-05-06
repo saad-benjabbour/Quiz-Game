@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">QuizGame</string>
+    <string name="Quiz_Game">Quiz Game</string>
+    <string name="content">Content</string>
+    <string name="quiz_welcome">Welcome</string>
+    <string name="name_permission">Please Enter your Information</string>
+    <string name="playerName_hint">Name</string>
+    <string name="playerPassword_hint">Password</string>
+    <string name="btn_login_text">Login</string>
+    <string name="SignUp">Don\'t have an account? Sign Up</string>
+    <string name="playerConfirmPassword_hint">Confirm Password</string>
+    <string name="btn_register_text">Register</string>
+    <string name="backLogin">Back To Login</string>
+    <string name="category_title">Quiz Categories</string>
+    <string name="catName1">Food</string>
+    <string name="catName2">Music</string>
+    <string name="catName3">History</string>
+    <string name="catName4">Sport</string>
+    <string name="catName5">Science</string>
+    <string name="catName6">Art</string>
+    <string name="question">what is?</string>
+    <string name="btn_title">Submit</string>
+    <string name="congratsMessage">Congratulations</string>
+    <string name="UserName">UserName</string>
+    <string name="scoreMessage">Your score is 9 out of 10</string>
+    <string name="Result">Result</string>
+    <string name="image">Content</string>
+    <string name="Finish">Finish</string>
+</resources>
